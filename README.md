@@ -6,7 +6,7 @@
 
 💬 has knowledge about **python, c#, sql & php** <br>
 📫 Reach me at **daniel.reyes7710@gmail.com**<br>
-🌱 I'm currently learning: **Data Analytics**<br>
+🌏 You can check my portfolio at: **https://thanyeal.github.io/dan/**<br>
 
 |# 💻 Tech Stack:  |                                     |
 |------------------------|---------------------------------|
