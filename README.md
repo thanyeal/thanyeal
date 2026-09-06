@@ -14,17 +14,28 @@
 
   Currently focused on database-backed tooling, and expanding into machine learning, system architecture, and scalable data pipeline design.
 
-  **[Email](mailto:daniel.connections@proton.me)** &nbsp;|&nbsp; **[Portfolio](https://thanyeal.github.io/my.portfolio/)**
+  **[Email me](mailto:daniel.connections@proton.me)** &nbsp;or&nbsp; **[Check my portfolio](https://thanyeal.github.io/my.portfolio/)**
 
   <br>
 
   ## My Featured Projects
 
-  ### [bini.unofficial](https://github.com/thanyeal/bini.unofficial)
-  I made this website to learn traditional CSS and JavaScript and to improve my expertise building more interactive and UX wise programs.
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-  ### [my.portfolio](https://github.com/thanyeal/my.portfolio)
-  Personal single-page portfolio site with a pnpm-powered build pipeline that minifies HTML/CSS/JS and auto-deploys to GitHub Pages via GitHub Actions.
+  > ### [my.portfolio](https://github.com/thanyeal/my.portfolio)
+  > Personal single-page portfolio site with a pnpm-powered build pipeline that minifies HTML/CSS/JS and auto-deploys to GitHub Pages via GitHub Actions.
+
+  </td>
+  <td width="50%" valign="top">
+
+  > ### [bini.unofficial](https://github.com/thanyeal/bini.unofficial)
+  > I made this website to learn traditional CSS and JavaScript and to improve my expertise building more interactive and UX wise programs.
+
+  </td>
+  </tr>
+  </table>
 
   <br>
 
