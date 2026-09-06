@@ -25,7 +25,7 @@
   <td width="50%" valign="top">
 
   > ### [my.portfolio](https://github.com/thanyeal/my.portfolio)
-  > Personal single-page portfolio site with a pnpm-powered build pipeline that minifies HTML/CSS/JS and auto-deploys to GitHub Pages via GitHub Actions.
+  > Personal single-page portfolio site with a pnpm-powered build pipeline that minifies HTML/CSS/JS and auto-deploys to GitHub Pages.
 
   </td>
   <td width="50%" valign="top">
