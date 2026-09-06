@@ -18,10 +18,13 @@
 
   <br>
 
-  ## My Featured Project
+  ## My Featured Projects
 
-  ### [UI Showcase](https://github.com/thanyeal/bini.unofficial)
+  ### [bini.unofficial](https://github.com/thanyeal/bini.unofficial)
   I made this website to learn traditional CSS and JavaScript and to improve my expertise building more interactive and UX wise programs.
+
+  ### [my.portfolio](https://github.com/thanyeal/my.portfolio)
+  Personal single-page portfolio site with a pnpm-powered build pipeline that minifies HTML/CSS/JS and auto-deploys to GitHub Pages via GitHub Actions.
 
   <br>
 
