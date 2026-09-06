@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  # 💫<br>The Enthusiast Developer
+  # 💫<br>The Enthusiast Developer 
 
   I create web applications, intelligent automation tools, and intuitive user interfaces with good user experiences.
 
